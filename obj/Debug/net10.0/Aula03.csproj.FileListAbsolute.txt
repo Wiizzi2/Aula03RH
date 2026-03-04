@@ -1,0 +1,14 @@
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\bin\Debug\net10.0\Aula03.exe
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\bin\Debug\net10.0\Aula03.deps.json
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\bin\Debug\net10.0\Aula03.runtimeconfig.json
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\bin\Debug\net10.0\Aula03.dll
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\bin\Debug\net10.0\Aula03.pdb
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\obj\Debug\net10.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\obj\Debug\net10.0\Aula03.AssemblyInfoInputs.cache
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\obj\Debug\net10.0\Aula03.AssemblyInfo.cs
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\obj\Debug\net10.0\Aula03.csproj.CoreCompileInputs.cache
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\obj\Debug\net10.0\Aula03.dll
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\obj\Debug\net10.0\refint\Aula03.dll
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\obj\Debug\net10.0\Aula03.pdb
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\obj\Debug\net10.0\Aula03.genruntimeconfig.cache
+D:\gabriel_coelho\DS-luiz_felipe\Aula03\obj\Debug\net10.0\ref\Aula03.dll
